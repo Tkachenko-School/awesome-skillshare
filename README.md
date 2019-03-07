@@ -11,3 +11,6 @@
 - https://www.skillshare.com/teach/handbook/choosing-your-class-project/205222597
 - https://www.skillshare.com/teach/handbook/screencasting/205222617
 
+- https://blog.skillshare.com/resources/5-creative-ways-to-market-your-class?rq=market
+- https://blog.skillshare.com/resources/2016/6/14/using-seo-to-increase-traffic-to-your-skillshare-class?rq=market
+- https://www.skillshare.com/teach/handbook/earning-royalties/205222697
