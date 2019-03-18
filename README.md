@@ -14,3 +14,6 @@
 - https://blog.skillshare.com/resources/5-creative-ways-to-market-your-class?rq=market
 - https://blog.skillshare.com/resources/2016/6/14/using-seo-to-increase-traffic-to-your-skillshare-class?rq=market
 - https://www.skillshare.com/teach/handbook/earning-royalties/205222697
+
+
+- https://coda.io/t/Skillshare-Teachers-Earnings-Tracker_t5HN45quX7d
