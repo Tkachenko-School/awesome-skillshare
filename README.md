@@ -1,5 +1,9 @@
 # awesome-skillshare
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-skillshare) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-skillshare)
+![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
+
+
 - https://blog.skillshare.com/resources/teacher-tips-how-christine-fleming-built-her-student-following
 - https://www.skillshare.com/teach/handbook/choosing-your-class-project/205222597
 - https://www.skillshare.com/classes/Learn-to-Teach-an-Amazing-Skillshare-Class/2026948765/classroom/discussions?via=user-profile&enrolledRedirect=1
